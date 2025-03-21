@@ -1,8 +1,16 @@
+Sprite Swap Morph is a component that automatically applies a liquid-like transition animation when switching between sprites. Supports masking and other built-in effects.
+
 https://github.com/user-attachments/assets/5a6b236d-efc6-4711-ab88-305b09bbaf0e
+
+## Requirements
+
+* Unity 6000+
+* Unversal / Built-in Renderer Pipeline (HDRP is not supported)
+* Shader Graph package installed
 
 ## Installation
 
-From Pacakge Manager Scoped Registry
+From Package Manager Scoped Registry
 ```
 Name: VD3V
 URL: https://registry.npmjs.com
