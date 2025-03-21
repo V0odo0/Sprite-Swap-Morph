@@ -1,0 +1,14 @@
+{
+    "name": "VD3V.SpriteSwapMorph",
+    "rootNamespace": "VD3V.SpriteSwapMorph",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,23 @@
+{
+  "name": "com.vd3v.sprite-swap-morph",
+  "version": "0.1.0",
+  "author": "V0odo0",
+  "displayName": "Sprite Swap Morph,
+  "unity": "6000.0",
+  "description": "",
+  "keywords": [
+    "rendering",
+    "ui",
+	"effect"
+	],
+  "category": "UI",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "samples": [
+        {
+            "displayName": "Demo",
+            "description": "Features overview",
+            "path": "Samples~/Demo"
+        }
+    ]
+}
