@@ -1,6 +1,6 @@
 {
   "name": "com.vd3v.sprite-swap-morph",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "V0odo0",
   "displayName": "Sprite Swap Morph",
   "unity": "6000.0",
@@ -11,8 +11,8 @@
 	"effect"
 	],
   "category": "UI",
-  "documentationUrl": "",
-  "changelogUrl": "",
+  "documentationUrl": "https://github.com/V0odo0/Sprite-Swap-Morph",
+  "changelogUrl": "https://github.com/V0odo0/Sprite-Swap-Morph/blob/main/CHANGELOG.md",
   "samples": [
         {
             "displayName": "Demo",
