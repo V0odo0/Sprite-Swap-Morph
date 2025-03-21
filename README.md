@@ -29,3 +29,4 @@ Add **Component > UI > Effects > Swprite Swap Morph** component to UI **Image**
 ## Limitations
 * Swapping sprites should be imported as **Mesh Type: Full Rect**
 * Swapping sprites should have the same size aspect
+* Higher sprite texture resolution requires higher **Blur Over Time** value to take effect
